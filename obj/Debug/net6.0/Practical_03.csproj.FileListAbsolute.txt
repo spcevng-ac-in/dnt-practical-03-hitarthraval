@@ -1,0 +1,15 @@
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\bin\Debug\net6.0\Practical_03.exe
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\bin\Debug\net6.0\Practical_03.deps.json
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\bin\Debug\net6.0\Practical_03.runtimeconfig.json
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\bin\Debug\net6.0\Practical_03.dll
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\bin\Debug\net6.0\ref\Practical_03.dll
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\bin\Debug\net6.0\Practical_03.pdb
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.csproj.AssemblyReference.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.AssemblyInfoInputs.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.AssemblyInfo.cs
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.csproj.CoreCompileInputs.cache
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.dll
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\ref\Practical_03.dll
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.pdb
+D:\Documents\College Docs\6th SEM\dot Net Technology (.NET)\PRACTICALS\Practical_03\obj\Debug\net6.0\Practical_03.genruntimeconfig.cache
